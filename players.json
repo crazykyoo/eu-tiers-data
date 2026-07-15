@@ -3,12 +3,13 @@
         "ign": "Kyokutan_",
         "kits": {
             "sword": "LT3",
-            "axe": "HT3"
+            "axe": "lt3"
         },
         "lastTester": "1148266446602899538",
         "cooldowns": {
             "1500609641158021342_normal": 1780529419723,
-            "axe_hightier": 1781040402132
+            "axe_hightier": 1781040402132,
+            "1500609700537045012_normal": 1784548418598
         },
         "restrictedUntil": 1780183932285
     },
