@@ -1,1 +1,64 @@
-{}
+{
+    "1148266446602899538": {
+        "ign": "Kyokutan_",
+        "kits": {
+            "sword": "LT3",
+            "axe": "HT3"
+        },
+        "lastTester": "1148266446602899538",
+        "cooldowns": {
+            "1500609641158021342_normal": 1780529419723,
+            "axe_hightier": 1781040402132
+        },
+        "restrictedUntil": 1780183932285
+    },
+    "1334499974313934960": {
+        "ign": "Frexiq",
+        "lastTier": "<@1334499974313934960>",
+        "lastKit": "pot",
+        "kits": {
+            "sword": "LT4"
+        },
+        "lastTester": "1148266446602899538"
+    },
+    "1433499621967134821": {
+        "ign": "Lurionix",
+        "lastTier": "None"
+    },
+    "1244745756124909601": {
+        "ign": "blekhed_king",
+        "kits": {
+            "sword": "HT3",
+            "axe": "HT3"
+        },
+        "lastTester": "1244745756124909601",
+        "cooldowns": {
+            "1500609811488964618_normal": 1780074318151
+        }
+    },
+    "1499854846881169620": {
+        "ign": "TmkjEU",
+        "kits": {},
+        "cooldowns": {}
+    },
+    "1407730350280540230": {
+        "ign": "Gerlox_",
+        "kits": {},
+        "cooldowns": {},
+        "restrictedUntil": 1780183531252
+    },
+    "1419031701920940163": {
+        "ign": "mendu__",
+        "kits": {},
+        "cooldowns": {}
+    },
+    "1204842022742130729": {
+        "ign": "Z_zori_I",
+        "kits": {
+            "vannila": "lt3"
+        },
+        "cooldowns": {
+            "1500610272669335653_normal": 1784547777242
+        }
+    }
+}
