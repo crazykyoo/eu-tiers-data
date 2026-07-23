@@ -12,5 +12,14 @@
         "ign": "Z_zori_I",
         "kits": {},
         "cooldowns": {}
+    },
+    "1244745756124909601": {
+        "ign": "blekhed_king",
+        "kits": {
+            "smp": "lt3"
+        },
+        "cooldowns": {
+            "1500610126535458816_normal": 1785252065488
+        }
     }
 }
