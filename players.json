@@ -30,7 +30,7 @@
         "kits": {
             "mace": "lt3",
             "diasmp": "lt3",
-            "axe": "lt3"
+            "axe": "eval"
         },
         "cooldowns": {
             "1500610230097281146_normal": 1785278225227,
