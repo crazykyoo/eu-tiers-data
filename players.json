@@ -6,7 +6,6 @@
             "axe": "lt3"
         },
         "cooldowns": {
-            "1500610272669335653_normal": 1794950792467,
             "1500609700537045012_normal": 1795015456833
         }
     },
@@ -37,7 +36,8 @@
     "1130118308339912764": {
         "ign": "Adrison99",
         "kits": {
-            "sword": "lt3"
+            "sword": "lt3",
+            "pot": "lt3"
         },
         "cooldowns": {}
     },
@@ -49,10 +49,26 @@
     "1407730350280540230": {
         "ign": "gerlox_",
         "kits": {},
-        "cooldowns": {},
-        "restricted": {
-            "until": 1794676204081,
-            "erased": true
-        }
+        "cooldowns": {}
+    },
+    "1109151842371375144": {
+        "ign": "Domrixx",
+        "kits": {},
+        "cooldowns": {}
+    },
+    "1244745756124909601": {
+        "ign": "blekhed_king",
+        "kits": {},
+        "cooldowns": {}
+    },
+    "1334499974313934960": {
+        "ign": "Frexiq",
+        "kits": {},
+        "cooldowns": {}
+    },
+    "1419031701920940163": {
+        "ign": "mendu__",
+        "kits": {},
+        "cooldowns": {}
     }
 }
