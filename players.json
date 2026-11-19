@@ -9,7 +9,8 @@
             "pot": "ht1",
             "nethop": "ht1",
             "mace": "ht1",
-            "uhc": "ht1"
+            "uhc": "ht1",
+            "smp": "ht1"
         },
         "cooldowns": {
             "1500609700537045012_normal": 1795535713268,
