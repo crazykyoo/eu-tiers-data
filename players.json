@@ -3,7 +3,8 @@
         "ign": "Kyokutan_",
         "kits": {
             "vannila": "ht5",
-            "axe": "ht1"
+            "axe": "ht1",
+            "cart": "ht1"
         },
         "cooldowns": {
             "1500609700537045012_normal": 1795535713268,
