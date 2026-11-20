@@ -1,21 +1,14 @@
 {
     "1148266446602899538": {
         "ign": "Kyokutan_",
-        "kits": {
-            "vannila": "ht1",
-            "axe": "ht1",
-            "cart": "ht1",
-            "sword": "ht1",
-            "pot": "ht1",
-            "nethop": "ht1",
-            "mace": "ht1",
-            "uhc": "ht1",
-            "smp": "ht1",
-            "diasmp": "ht1"
-        },
+        "kits": {},
         "cooldowns": {
             "1500609700537045012_normal": 1795535713268,
             "axe_hightier": 1795968633771
+        },
+        "restricted": {
+            "until": 1795245111329,
+            "erased": true
         }
     },
     "1204842022742130729": {
